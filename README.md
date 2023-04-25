@@ -1,4 +1,4 @@
-# Dashboadrd_design_V1
+# Dashboard_design_V1
 This is a first attempt on trying to design a dashboard with html and css
 
 ## Tools used
