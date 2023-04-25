@@ -63,9 +63,10 @@ nav .menu-items {
     align-items: center;
   text-decoration: none;
   height: 60px;
+  position: relative;
 }
 
-.menu-items li a:before{
+nav .menu-items li a:hover::before{
     content: "";
     position: absolute;
     left: -7px;
@@ -96,3 +97,13 @@ nav .menu-items {
     color: blue ;
 }
 
+.dashboard{
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 250px;
+    height: 100vh;
+    width: calc(100% - 250px);
+}
