@@ -7,7 +7,7 @@ This is a first attempt on trying to design a dashboard with html and css
 - Javascript
 - Chart.js
 
-## Helpful resources
+## Helpful Resources
 - Youtube
 - Mdn Docs
 - Css Tricks
