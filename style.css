@@ -11,6 +11,7 @@ body {
   line-height: 1.5;
   background-color: burlywood;
   font-family: "Poppins", sans-serif;
+  display: flex;
 }
 
 nav {
@@ -105,5 +106,14 @@ nav .menu-items li a:hover::before{
     position: relative;
     left: 250px;
     height: 100vh;
-    width: calc(100% - 250px);
+    width: 1050px;
+    
+}
+
+.thirdDash{
+    background-color: red;
+    left: 250px;
+    position: relative;
+    width: 1360px;
+    height: 100vh;
 }
