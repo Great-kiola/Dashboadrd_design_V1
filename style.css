@@ -14,7 +14,60 @@ body {
   display: flex;
 }
 
-nav {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* nav {
   position: fixed;
   top: 0;
   left: 0;
@@ -116,4 +169,4 @@ nav .menu-items li a:hover::before{
     position: relative;
     width: 1360px;
     height: 100vh;
-}
+} */
