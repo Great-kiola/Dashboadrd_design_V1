@@ -65,10 +65,6 @@ i {
   transition: all 0.3s ease;
 }
 
-.container .left-section .sidebar i:hover{
-
-}
-
 .container .left-section .sidebar a{
   display: flex;
   align-items: center;
