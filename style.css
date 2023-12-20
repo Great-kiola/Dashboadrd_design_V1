@@ -9,9 +9,9 @@
 body {
   min-height: 100vh;
   line-height: 1.5;
-  /* background-color: burlywood; */
   font-family: "Poppins", sans-serif;
   display: flex;
+  /* background-color: burlywood; */
 }
 
 
